@@ -1,16 +1,16 @@
 const customize = {
-        Servername: "YourServer",
-        Yourserverip: 'mc.yourserver.com',
-        Webtitle: "YourServer - Minecraft Server",
-        Webdesc: "YourServer: The best Minecraft server with a friendly community. Join our unique gaming experience and discover exciting challenges. Dive into a virtual world of adventures in YourServer today!",
-        Weburl: "https://yourserver.com", //DON'T ADD SLASH AND THE END OF THE DOMAIN
-        Discord: "https://discord.com/",
-        Store: "https://www.tebex.io/",
-        Webmap: "https://modrinth.com/plugin/squaremap",
-        Ownernick: "Your nick",
+        Servername: "EventyrMC",
+        Yourserverip: 'play.eventyr.lat',
+        Webtitle: "EventyrMC - Servidor Survival",
+        Webdesc: "EventyrMC: El mejor servidor de Minecraft survival con una comunidad amigable. Únete a nuestra experiencia de juego única y descubre emocionantes desafíos. ¡Sumérgete hoy en un mundo virtual lleno de aventuras en EventyrMC!",
+        Weburl: "https://eventyr.lat", //DON'T ADD SLASH AND THE END OF THE DOMAIN
+        Discord: "https://discord.eventyr.lat/",
+        Store: "https://tienda.eventyr.lat/",
+        Webmap: "https://mapa.eventyr.lat/",
+        Ownernick: "emoticones",
         Serverlocale: "en_US",
-        Servertwitter: "@yourserver",
-        Keywords: ['Minecraft server', 'Minecraft multiplayer', 'Best Minecraft servers', 'Minecraft community', 'Survival Minecraft server', 'PvP Minecraft server', 'Roleplay Minecraft server', 'Custom Minecraft maps', 'Minecraft server list', 'Top Minecraft servers', 'Minecraft game modes', 'Minecraft plugins', 'Minecraft mods', 'Minecraft server IP', 'Join Minecraft server', 'Play Minecraft online', 'Minecraft server reviews', 'Minecraft community forums']
+        Servertwitter: "@eventyrmc",
+        Keywords: ['Servidor Minecraft', 'Jugar Minecraft multijugador', 'Servidores Minecraft mejores', 'Comunidad Minecraft', 'Servidor supervivencia Minecraft', 'Servidor PvP Minecraft', 'Servidor rol Minecraft', 'Mapas Minecraft personalizados', 'Servidores Minecraft lista', 'Mejores servidores Minecraft', 'Modos juego Minecraft', 'Minecraft plugins', 'Minecraft mods', 'IP servidor Minecraft', 'Unirse servidor Minecraft', 'Minecraft online', 'Reseñas servidores Minecraft', 'Foro comunidad Minecraft']
     };
 
 export default customize
