@@ -13,7 +13,7 @@ export default function Vote() {
           </Link>
 
           <h1 className="text-4xl font-extrabold text-center text-blue-900 mb-8">
-            <span className="border-b-4 border-yellow-400 pb-2">VOTE LINKS</span>
+            <span className="border-b-4 border-yellow-400 pb-2">LINKS</span>
           </h1>
 
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
