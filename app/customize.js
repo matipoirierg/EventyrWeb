@@ -2,7 +2,7 @@ const customize = {
         Servername: "EventyrMC",
         Yourserverip: 'play.eventyr.lat',
         Webtitle: "EventyrMC - Servidor Survival",
-        Webdesc: "EventyrMC: El mejor servidor de Minecraft survival con una comunidad amigable. Únete a nuestra experiencia de juego única y descubre emocionantes desafíos. ¡Sumérgete hoy en un mundo virtual lleno de aventuras en EventyrMC!",
+        Webdesc: "EventyrMC: El mejor servidor de Minecraft en Español con Towny y una comunidad amigable. Únete a nuestra experiencia de juego única y descubre emocionantes desafios.",
         Weburl: "https://eventyr.lat", //DON'T ADD SLASH AND THE END OF THE DOMAIN
         Discord: "https://discord.eventyr.lat/",
         Store: "https://tienda.eventyr.lat/",
