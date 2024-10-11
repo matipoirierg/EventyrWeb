@@ -26,7 +26,7 @@ export default function PlayerCount() {
   return (
     <div className="playercount">
       <p>
-        Join <span className='bg-teal-600 px-2 rounded'>{playerCount !== null ? playerCount : '...'}</span> other players at{' '}
+        Únete a <span className='bg-teal-600 px-2 rounded'>{playerCount !== null ? playerCount : '...'}</span> jugadores en{' '}
         <span className='bg-teal-600 px-2 rounded'>{customize.Yourserverip}</span>
       </p>
     </div>
