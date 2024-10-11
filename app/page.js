@@ -25,17 +25,17 @@ export default function Home() {
           </Button>
           <Button asChild className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:scale-105">
             <Link href={customize.Store} target="_blank" rel="noopener noreferrer">
-              Store
+              Tienda
             </Link>
           </Button>
           <Button asChild className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:scale-105">
             <Link href="/vote" target="_blank" rel="noopener noreferrer">
-              Vote
+              Votos
             </Link>
           </Button>
           <Button asChild className="bg-orange-600 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300 ease-in-out transform hover:scale-105">
             <Link href={customize.Webmap} target="_blank" rel="noopener noreferrer">
-              Map
+              Mapa
             </Link>
           </Button>
         </div>
