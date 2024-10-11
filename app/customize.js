@@ -8,7 +8,7 @@ const customize = {
         Store: "https://tienda.eventyr.lat/",
         Webmap: "https://mapa.eventyr.lat/",
         Ownernick: "emoticones",
-        Serverlocale: "en_US",
+        Serverlocale: "es_ES",
         Servertwitter: "@eventyrmc",
         Keywords: ['Servidor Minecraft', 'Jugar Minecraft multijugador', 'Servidores Minecraft mejores', 'Comunidad Minecraft', 'Servidor supervivencia Minecraft', 'Servidor PvP Minecraft', 'Servidor rol Minecraft', 'Mapas Minecraft personalizados', 'Servidores Minecraft lista', 'Mejores servidores Minecraft', 'Modos juego Minecraft', 'Minecraft plugins', 'Minecraft mods', 'IP servidor Minecraft', 'Unirse servidor Minecraft', 'Minecraft online', 'Reseñas servidores Minecraft', 'Foro comunidad Minecraft']
     };
