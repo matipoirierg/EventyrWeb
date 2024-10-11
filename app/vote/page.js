@@ -8,7 +8,7 @@ export default function Vote() {
         <div className="p-8">
           <Link href="./" className="inline-block mb-8">
             <button className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-              ← BACK
+              ← VOLVER
             </button>
           </Link>
 
