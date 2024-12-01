@@ -32,7 +32,7 @@ export default function Vote() {
                   </p>
                   <p className="text-xs text-blue-200 mt-2">Cooldown 24h</p>
                   <div className="mt-4 text-yellow-300 group-hover:text-white transition duration-300">
-                    Click to vote! →
+                  ¡Click para votar! →
                   </div>
                 </div>
               </a>
